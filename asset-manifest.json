@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Birthday-Reminder-App/static/css/main.20ecc253.chunk.css",
+    "main.js": "/Birthday-Reminder-App/static/js/main.b7a74850.chunk.js",
+    "main.js.map": "/Birthday-Reminder-App/static/js/main.b7a74850.chunk.js.map",
+    "runtime-main.js": "/Birthday-Reminder-App/static/js/runtime-main.27089c86.js",
+    "runtime-main.js.map": "/Birthday-Reminder-App/static/js/runtime-main.27089c86.js.map",
+    "static/js/2.b15eafe8.chunk.js": "/Birthday-Reminder-App/static/js/2.b15eafe8.chunk.js",
+    "static/js/2.b15eafe8.chunk.js.map": "/Birthday-Reminder-App/static/js/2.b15eafe8.chunk.js.map",
+    "static/js/3.f7b176a1.chunk.js": "/Birthday-Reminder-App/static/js/3.f7b176a1.chunk.js",
+    "static/js/3.f7b176a1.chunk.js.map": "/Birthday-Reminder-App/static/js/3.f7b176a1.chunk.js.map",
+    "index.html": "/Birthday-Reminder-App/index.html",
+    "static/css/main.20ecc253.chunk.css.map": "/Birthday-Reminder-App/static/css/main.20ecc253.chunk.css.map",
+    "static/js/2.b15eafe8.chunk.js.LICENSE.txt": "/Birthday-Reminder-App/static/js/2.b15eafe8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27089c86.js",
+    "static/js/2.b15eafe8.chunk.js",
+    "static/css/main.20ecc253.chunk.css",
+    "static/js/main.b7a74850.chunk.js"
+  ]
+}
